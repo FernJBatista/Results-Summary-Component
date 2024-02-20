@@ -78,9 +78,9 @@ body {
 main {
     display: flex;
     flex-direction: row;
-    border-radius: 2rem;
+    border-radius: 1rem;
     background-color: var(--White);
-    box-shadow: 0 0.5rem 16px 0.5rem hsla(234, 85%, 45%, 0.05) ;
+    box-shadow: 0 0.5rem 16px 0.5rem hsla(234, 85%, 45%, 0.15) ;
 
     .result-section {
         display: flex;
